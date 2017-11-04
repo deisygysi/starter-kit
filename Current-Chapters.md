@@ -314,8 +314,9 @@ Christin Zasada, Noa Tamir, Hannah Tillmann
 Deisy Gysi
 
 - meetup:
-- twitter: 
-- email: 
+- twitter: [https://twitter.com/RLadiesLeipzig](https://twitter.com/RLadiesLeipzig)
+- facebook: 
+- email: leipzig [at] rladies [dot] org
 
 **Munich**
 
